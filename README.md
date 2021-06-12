@@ -1,3 +1,10 @@
+# Note on this fork
+
+There are packages on [Hackage](https://hackage.haskell.org) that depend on this package. The original package does not work anymore. The shortcomings will be rectified here and submitted as pull requests to the original upstream repository. At first sight, it only provides a Haskell interface to some standard data sets in machine learning and implementations of a few standard textbook numerical methods. I hope the project will nonetheless gain more traction. For the meantime, we have a seamless integration of R and Python into Haskell, harnessing the dynamically typed or unsafe swathes of data processing APIs.
+
+____
+
+
 # DataHaskell/dh-core
 
 [![Build Status](https://travis-ci.org/DataHaskell/dh-core.png)](https://travis-ci.org/DataHaskell/dh-core)
